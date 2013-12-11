@@ -1,0 +1,2 @@
+abc, bcd, cde, def, efg, fgh, ghi, hij, ijk, jkl, klm, lmn, mno, nop, opq, pqr, rst, stu, tuv, uvw, vwx, wxy, xyz
+cba, dcb, edc, fed, gfe, hgf, ihg, jih, kji, lkj, mlk, nml, onm, pon, opq, rqp, tsr, uts, vut, wvu, xwv, yxw, zyx
