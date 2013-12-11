@@ -12,7 +12,9 @@ def is_valid( text )
 end
 
 def separate_csvs( line )
+  # create new, blank file for errors
   File.open( 'errors.txt', 'w' ) { |file| file.write( '' ) }
+  # process each line in the file, processing every CSV 
   line.split( ',' ).each do |value| 
     trimmed_value = value.strip
     if is_valid( trimmed_value )
